@@ -73,7 +73,6 @@ jupyterlab==1.1.4
 jupyterlab-server==1.0.6
 kmodes==0.10.2
 korean-lunar-calendar==0.2.1
-lazy-object-proxy @ file:///C:/b/work
 libarchive-c==2.9
 lightgbm==3.1.1
 llvmlite==0.35.0
