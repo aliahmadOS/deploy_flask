@@ -184,9 +184,3 @@ win-unicode-console==0.5
 wincertstore==0.2
 wordcloud==1.8.1
 wrapt==1.11.2
-xgboost==1.3.1
-xlwings==0.21.4
-xlwt==1.3.0
-yellowbrick==1.2
-zict==2.0.0
-zope.event==4.5.0
