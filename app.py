@@ -14,7 +14,6 @@ def load_model():
 
 @app.route('/')
 
-
 # home page
 def home():
 	return render_template('index.html')
