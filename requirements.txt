@@ -121,7 +121,6 @@ pygame==1.9.6
 pyLDAvis==2.1.2
 PyMeeus==0.3.7
 pyod==0.8.4
-pyodbc===4.0.0-unsupported
 pyparsing==2.4.7
 pyreadline==2.1
 pytest==5.2.1
